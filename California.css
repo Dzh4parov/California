@@ -1,0 +1,63 @@
+* {
+  font-family: inter;
+}
+.header {
+  height: 90px;
+}
+.header > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+.middle a {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-transform: uppercase;
+  color: #000000;
+  text-decoration: none;
+  padding: 30px;
+  text-align: center;
+}
+.header select {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-transform: uppercase;
+  color: #000000;
+  border: none;
+  outline: none;
+}
+.last-head img {
+  margin-right: 20px;
+}
+.prikol {
+  background-color: #d5e1d6;
+  border-radius: 30px;
+  height: 550px;
+}
+.prikol h1 {
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 70px;
+  color: #000000;
+  width: 50%;
+}
+.prikol p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  width: 50%;
+}
+.prikol button {
+  border: 1px solid #000000;
+  border-radius: 200px;
+  padding: 10px 50px;
+}
+.prikol img {
+  position: absolute;
+  right: 15px;
+  bottom: 0px;
+}
